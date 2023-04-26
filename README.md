@@ -1,7 +1,7 @@
 
 # 💫 About Me:
-* I currently work as a web developer focusing on the backend using node and typescript
-* I am currently studying and applying clean architecture to build my projects
+* I'm currently work as a web developer focusing on the backend using node and typescript
+* I'm currently studying and applying clean architecture to build my projects
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/willian_smach) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-silva-a0a509258) 
