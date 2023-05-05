@@ -1,8 +1,8 @@
 
 # 💫 About Me:
 
-* I'm currently work as a web developer focusing on the backend using node and typescript
-* I'm currently studying and applying clean architecture to build my projects
+* **I'm currently work as a web developer focusing on the backend using node and typescript**
+* **I'm currently studying and applying clean architecture to build my projects**
 
 # 🌐 Socials:
 
