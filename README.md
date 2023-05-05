@@ -32,7 +32,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-smach)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-smach&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=Willian-smach&icon=1&color=6)](https://visitcount.itsvg.in)
 
